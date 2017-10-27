@@ -1,0 +1,4 @@
+/Users/Dean/Documents/Development/RPISharp/rpi_ws281_csharp/bin/Debug/netstandard1.6/RpiWs821xSharp.deps.json
+/Users/Dean/Documents/Development/RPISharp/rpi_ws281_csharp/obj/Debug/netstandard1.6/RpiWs821xSharp.csprojResolveAssemblyReference.cache
+/Users/Dean/Documents/Development/RPISharp/rpi_ws281_csharp/obj/Debug/netstandard1.6/RpiWs821xSharp.csproj.CoreCompileInputs.cache
+/Users/Dean/Documents/Development/RPISharp/rpi_ws281_csharp/obj/Debug/netstandard1.6/RpiWs821xSharp.AssemblyInfo.cs
